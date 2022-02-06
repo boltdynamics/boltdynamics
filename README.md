@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Software Engineer at Versent and I have been mostly working with technologies surrounding AWS for the past 2 years. My favourite programming language is python which is also the only language I have been practising so far. I am keen to learn frontend technologies like JavaScript and React.
+I am a Software Engineer at Versent and I have been mostly working with technologies surrounding AWS for the past 4 years. My favourite programming language is python which is also the only language I have been practising so far. I am keen to learn frontend technologies like JavaScript and React.
 
 ### My tech stack
 * Infrastructure as Code (IaC) - Cloudformation, Terraform
