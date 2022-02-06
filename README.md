@@ -23,5 +23,6 @@ I am a Software Engineer at Versent and I have been mostly working with technolo
 ### Follow my awesome best friend :dog: on Instagram
 - [Instagram](https://instagram.com/chris_the_cavoodle)
 
-### Some 
+### Some stats 
 ![Pras's Github Stats](https://github-readme-stats.vercel.app/api?username=boltdynamics&show_icons=true&theme=great-gatsby)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=boltdynamics&theme=dracula&hide_border=true)
